@@ -1,0 +1,19 @@
+{
+  "name": "angular-filter",
+  "version": "1.0.0",
+  "description": "Aymen's angular filter",
+  "main": "app.js",
+  "scripts": {
+    "test": "karma start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Aymen-arbi/Angular-filter.git"
+  },
+  "author": "Aymen Arbi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Aymen-arbi/Angular-filter/issues"
+  },
+  "homepage": "https://github.com/Aymen-arbi/Angular-filter"
+}
